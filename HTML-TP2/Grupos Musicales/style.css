@@ -1,0 +1,41 @@
+
+p,h1,h2,table{
+font-family: Verdana;
+}
+h1 {
+color:#333;
+font-size: 20px;
+}
+h2 {
+color:#666;
+font-size: 16px;
+}
+p,td{
+	color: #000;
+	font-size: 12px;
+}
+table,td, tr, tbody{
+	border-collapse: collapse;
+	border: 1px solid black;
+	text-align: left;
+	padding: 10px;
+}
+img{
+	height:200px; 
+	width: 400px;
+}
+.cabecera{
+	font-size: 12px;
+	color:white;
+	background-color:#666;
+}
+tfoot{
+	background-color:#ccc;
+}
+.enlace{
+	color: blue;
+	font-size: 12px;
+}
+.table_tittle{
+	font-size: 14px;
+}
